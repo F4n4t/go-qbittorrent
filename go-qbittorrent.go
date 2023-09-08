@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/fabriceboyer/go-qbittorrent/qbt"
+	"github.com/f4n4t/go-qbittorrent/qbt"
 )
 
 func main() {
